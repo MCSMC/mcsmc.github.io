@@ -17,7 +17,7 @@
       <pubDate>Fri, 17 Aug 2018 11:43:24 -0400</pubDate>
       
       <guid>/code/metropolis/</guid>
-      <description>Metropolis is a basic algorithm to generate a Markov Chain for Monte Carlo methods. More details can be found at this link Metropolis.pdf. For example, we include and explain some basic sample code for performing a Gaussian integral in C or Fortran90</description>
+      <description>Metropolis is a basic algorithm to generate a Markov Chain for Monte Carlo methods. More details can be found by downloading Metropolis.pdf. There we include and explain some basic sample code for performing a Gaussian integral, both in C or in Fortran90 language.</description>
     </item>
     
     <item>
